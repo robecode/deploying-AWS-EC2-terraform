@@ -1,2 +1,2 @@
 # deploying-AWS-EC2-terraform
-Deploying an EC2 instances with Terraform
+Deploying an EC2 instance with Terraform
