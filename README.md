@@ -1,7 +1,7 @@
 # Deploying-AWS-EC2-terraform
 Deploying an EC2 instance with Terraform
 
-In this lab, we are going to set up two simple EC2 instances with Terraform. Terraform is an open-source infrastructure as a code software tool that provides a consistent CLI workflow to manage hundreds of cloud services.
+In this lab, we are going to set up two simple EC2 instances with Terraform. The EC2 instance will be deploy to the default VPC in AWS. Terraform is an open-source infrastructure as a code software tool that provides a consistent CLI workflow to manage hundreds of cloud services.
 
 # Prerequisites
 
